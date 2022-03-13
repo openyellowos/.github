@@ -1,4 +1,4 @@
-# Welcome to the official Open Yellow Os GitHub Repository !
+# 👋 Welcome to the official Open Yellow Os GitHub Repository !
 
 <div style="text-align: right;">日本語訳は<a href="https://github.com/openyellowos/.github/tree/main/profile/README.md">こちら</a></div>
 
