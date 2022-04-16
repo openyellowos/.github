@@ -20,6 +20,4 @@ From the official site to the source code:
 
 💿 <strong><a href="https://pc-freedom.net/category/open-yellow-os/">official site & Blog</a></strong>
 
-💻 <strong><a href="https://github.com/openyellowo">Open Yellow OS source code</a></strong>
-
-❓ <strong><a href="https://pc-freedom.net/category/open-yellow-os/">official support site & Send feedback</a></strong>
+💻 <strong><a href="https://github.com/openyellowo">Open Yellow OS Github</a></strong>
