@@ -1,6 +1,7 @@
 # :wave: Welcome to the official open.Yellow.os GitHub !
 
-![Open Yellow OS](https://user-images.githubusercontent.com/73892113/158064465-76db4c73-3c7c-4dc9-8673-cb1f1d0cd8a1.png)
+![open.Yellow.os](https://user-images.githubusercontent.com/52069677/202466050-69e23a14-e6e7-4cf3-a9e6-e20885340676.png "open.Yellow.os")
+
 
 ## :books: What is "open.Yellow.os"
 
