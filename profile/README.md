@@ -17,6 +17,6 @@ open.Yellow.os is built on [Debian](https://www.debian.org/) and [Gnome](https:/
 
 :black_nib: [**Blog**](https://pc-freedom.net/category/open-yellow-os/ "Blog")
 
-:computer: [**GitHub**](https://github.com/openyellowos "GitHub")
+:computer: [**GitHub Repository**](https://github.com/openyellowos/open-Yellow-os "GitHub")
 
-:floppy_disk: [**OSDN**](https://osdn.net/projects/open-yellow-os/ "OSDN")
+:dvd: [**SourceForge ISO**](https://sourceforge.net/projects/open-yellow-os/files/ "SourceForge")
