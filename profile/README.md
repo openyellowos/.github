@@ -19,4 +19,4 @@ open.Yellow.os is built on [Debian](https://www.debian.org/) and [Gnome](https:/
 
 :computer: [**GitHub Repository**](https://github.com/openyellowos/open-Yellow-os "GitHub")
 
-:dvd: [**Download**](https://github.com/openyellowos/open-Yellow-os/releases "Download(GitHub")
+:dvd: [**Download**](https://github.com/openyellowos/open-Yellow-os/releases "Download(GitHub)")
